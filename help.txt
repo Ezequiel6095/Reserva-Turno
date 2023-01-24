@@ -1,0 +1,17 @@
+Horarios:
+
+	<option value="09:15">09:15 - 9:55</option>
+      <option value="10:00">10:00 - 10:40</option>
+      <option value="10:45">10:45 - 11:25</option>
+      <option value="11:30">11:30 - 12:10</option>
+      <option value="14:15">14:15 - 14:55</option>
+      <option value="15:00">15:00 - 15:40</option>
+      <option value="15:45">15:45 - 16:25</option>
+      <option value="16:30">16:30 - 17:10</option>
+      <option value="17:35">17:35 - 18:15</option>
+      <option value="18:20">18:20 - 19:00</option>
+      <option value="19:05">19:05 - 19:45</option>
+      <option value="19:50">19:50 - 20:30</option>
+      <option value="20:35">20:35 - 21:15</option>
+
+------------------------------------------------------------------------------------------------------------------------------------

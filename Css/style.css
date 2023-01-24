@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #D5CEA3;
+    font-family: Open Sans;
+    font-size: 16px;
+    position: relative;
+    height: 100vh;
+    font-weight: 400;
+    
+}
+
+.cabecero {
+    margin-top: 10px;
+    width: 100%;
+    padding: 30px;
+    display: block;
+    color: #fff;
+    background-color: #1A120B;
+    border-radius: 30px;
+}
+
+.titulo{
+    width: 1;
+    margin-bottom: 0;
+    font-weight: 900;
+    font-size: 35px;
+    text-align: center;
+    color: #D5CEA3;
+}
+.subtitulo{
+    width: 1;
+    margin-bottom: 0;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    color: #D5CEA3;
+}
+.parrafos{
+    width: 1;
+    margin-bottom: 0;
+    font-weight: 900;
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+.Developed{
+    color: #fff;
+}
+/* La mayoria de los estilos se realizo con "Bootstrap v5.3" */
