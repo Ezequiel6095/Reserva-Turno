@@ -28,7 +28,7 @@ API Google Calendar -> https://developers.google.com/calendar/api/quickstart/js?
 - Horario
 
 
------ HTML 
+----- HTML Probar implementar para agendamiento en Google Calendar
 
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2SCyEviysFbwqbIlD5ARCXYP8uEYvtGucfPUpsb7Kyymi9WzuAYIQMZCRfj6OEYG0Yh3o9fii4?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
